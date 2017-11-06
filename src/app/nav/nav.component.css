@@ -1,0 +1,16 @@
+div {
+    background-color: rgb(125, 125, 218);
+    border: 2px solid black;
+    width: 200px;
+    height: 500px;
+    margin-top: 30px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 100px;
+}
